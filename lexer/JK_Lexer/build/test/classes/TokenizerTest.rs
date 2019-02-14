@@ -1,2 +1,0 @@
-JK_Lexer.TokenizerTest
-syntax_example.TokenizerTest
